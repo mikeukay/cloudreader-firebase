@@ -1,6 +1,6 @@
 # CloudReader
 
-Simple app for reading PDFs and saving you progress across devices. Mobile versions have the ability to let you download your PDFs for offline reading, while the web version fetches the document each time you open it. Unfortunately uploading documents can't be done via the web demo at this time.
+Simple app for reading PDFs and saving you progress across devices. Mobile versions let you download your PDFs for offline reading; the web version fetches the document each time you open it. Unfortunately uploading documents can't be done via the web app.
 
 ## Demo
 [https://mikeukay.github.io/cloudreader-demo/](https://mikeukay.github.io/cloudreader-demo/)
